@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @genai2030
-- 👀 I’m interested in applications of Machine Learning and Artificial Intelligence powered by GENAI
-- 🌱 I’m currently learning applications of GENAI for a greater change in 2030
-- 💞️ I’m looking to collaborate on GENAI on Healthcare 
-- 📫 How to reach me generativeai2030@gmail.com
+- 👋 Hi, I’m genai2030
+- 👀 I’m interested in applications of Machine Learning and Artificial Intelligence powered by GENAI/Agentic AI
+- 🌱 I’m currently learning applications of GENAI/Agentic AI for a greater change in 2030
+- 💞️ I’m looking to collaborate on GENAI on Healthcare and Other Verticals 
+- 📫 How to reach me generativeai2030@gmail.com / Getrajeshms@gmail.com / 8892306946
 - 😄 Pronouns: He
 - ⚡ Fun fact: My favorite kind of error is a type II error – because I always catch it!
 
